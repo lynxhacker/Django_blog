@@ -25,7 +25,7 @@ SECRET_KEY = '5gyxae3*wvnc$6qp6qpumw&t7=^nz9hc_c_j-(^ep#lik0e3!-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["*"]
+ALLOWED_HOSTS = ["lynxhacker.pythonanywhere.com"] //default leave ["*"]
 
 
 # Application definition
